@@ -1,0 +1,17 @@
+/*style.css*/
+body{
+    font-family: Arial sans-serif;
+    padding: 10px;
+}
+icon-link{
+    display: inline-flex;
+    align-items: center;
+    text-decoration: none;
+    color: #000;
+    font-size: 4px;
+}
+icon{
+    width: 0px;
+    height: 0px;
+    margin-right: 1px;
+}
